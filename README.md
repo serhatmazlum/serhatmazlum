@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://camo.githubusercontent.com/ccd6cc1c1499def1582ef6349a7092c7b0fbfcf90f4b8861c032b953a4286851/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d63616e6f7a796967696974267468656d653d626c75652d677265656e" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=serhatmazlum&amp;theme=blue-green" style="max-width:100%;">
+
